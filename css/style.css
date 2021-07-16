@@ -48,8 +48,8 @@ ul {
 	border-color: #707070;
 }
 .images {
+	margin: 0 auto;
 	margin-top: 65px;
-	margin-left: 140px;
 }
 .name-div {
 	margin-top: 49px;
