@@ -140,9 +140,13 @@ textarea {
 	height: 207px;
 	background-color: #2E2E2E;
 	display: flex;
+	justify-content: space-around;
 }
 .footer-logo {
-	padding: 56px 374px 56px 140px;
+	/*padding: 56px 374px 56px 140px;*/
+	padding-top: 56px;
+	padding-bottom: 56px;
+	display: flex;
 }
 .contact {
 	width: 124px;
@@ -167,7 +171,9 @@ textarea {
 	height: 43px;
 	display: flex;
 	flex-direction: column;
-	padding: 67px 295px 97px 363px;
+	/*padding: 67px 295px 97px 363px;*/
+	padding-top: 67px;
+	padding-bottom: 97px;
 }
 .h2-2 {
 	font-family: Archy EDT;
@@ -183,7 +189,9 @@ textarea {
 .social-icons {
 	width: 261px;
 	height: 43.95px;
-	padding: 81px 140px 82px 295px;
+	/*padding: 81px 140px 82px 295px;*/
+	padding-top: 81px;
+	padding-bottom: 82px;
 	display: flex;
 	justify-content: space-around;
 }
